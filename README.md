@@ -39,6 +39,8 @@ Users often remember iconic lines from shows or movies but cannot recall their t
     git push origin main
     ```
 3. Set up Wiki on GitHub for expanded documentation.
+## Wiki Link:
+https://github.com/MHarris6080/MovieQuoteFinder.wiki.git
 
 ---
 
